@@ -1,0 +1,76 @@
+
+body{
+   
+}
+/* alineo logo batman al centro*/
+header{
+   background: #E6E6E6;
+   text-align: center;
+}
+header img{
+    padding-top: 30px;
+    padding-bottom: 17px;
+
+    
+}
+/* Diseño titulo principal*/
+h1{
+Font-family: Times New Roman;
+Font-style: Bold;
+Font-size: 35px;
+letter-spacing: .4rem;
+Align: Left;
+Vertical align: Top;
+background-color: #005677;
+background:#C4C4C4;
+color:#005677;
+}
+
+section ul li span{
+    font-weight: bold;
+}
+/* pongo en negrita esta parte del texto.*/
+.negrita{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: italic;
+}
+/* saco las viñetas de la lista desordenada.*/
+.sacarViñetas{
+    list-style-type: none;
+}
+/* dejo sangria en la lista desordenada.*/
+.sangria{
+    margin-left: 78px;
+}
+
+/* modificacion de los subtitulos*/
+h2{
+font-family: 'Times New Roman', Times, serif;
+letter-spacing: .3rem;
+font-style: bold;
+font-size: 20px;
+align: Left;
+color: #005677;
+background-color: #c4c4c4;
+}
+
+/* Diseños del pie de pagina o "footer"*/
+footer span{
+font-family: 'Times New Roman', Times, serif;
+font-style: bold;
+font-size: 20px;
+color: #ffffff;
+font-weight: 700;
+    
+}
+footer{
+    background: #005677;
+    text-align: center;
+    padding-top: 9px;
+    padding-bottom: 8px;
+    margin-left: 26px;
+
+}
+
